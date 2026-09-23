@@ -1,13 +1,13 @@
-# Fizzy for Omarchy
+# Omafizzy
 
-Unread [Fizzy](https://fizzy.do) notifications in your [Omarchy](https://omarchy.org/) bar.
+Omafizzy (Fizzy notifications) shows unread [Fizzy](https://fizzy.do) notifications in your [Omarchy](https://omarchy.org/) bar.
 
 [![Version](https://img.shields.io/github/v/release/gigasolo/omarchy-fizzy?label=version)](https://github.com/gigasolo/omarchy-fizzy/releases)
 [![License: MIT](https://img.shields.io/github/license/gigasolo/omarchy-fizzy)](LICENSE)
 [![Omarchy 4](https://img.shields.io/badge/omarchy-4%20Quattro-informational)](https://omarchy.org/)
 
 <p align="center">
-  <img src="preview.png" alt="Fizzy New for you list with copy, send-to-agent, and mark-read buttons" width="380">
+  <img src="preview.png" alt="Omafizzy New for you list with copy, send-to-agent, and mark-read buttons" width="380">
   <img src="docs/peek.png" alt="Peek of a card and its comments, without marking the ping read" width="380">
 </p>
 
@@ -92,7 +92,7 @@ Each unread row has copy, send-to-agent, and mark-read buttons. Clicking the row
 | Next bar panel | Tab |
 
 <p align="center">
-  <img src="docs/help.png" alt="Keyboard shortcuts overlay for the Fizzy tray" width="380">
+  <img src="docs/help.png" alt="Keyboard shortcuts overlay for the Omafizzy tray" width="380">
   <img src="docs/accounts.png" alt="Accounts overlay: 1 All, 2 GigaBoard, add account" width="380">
 </p>
 
