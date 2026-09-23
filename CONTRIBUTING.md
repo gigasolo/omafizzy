@@ -8,7 +8,7 @@ You need [Omarchy](https://omarchy.org/) 4 (Quattro), the Fizzy CLI, and a signe
 
 ## Make a change
 
-1. Fork [gigasolo/omarchy-fizzy](https://github.com/gigasolo/omarchy-fizzy).
+1. Fork [gigasolo/omafizzy](https://github.com/gigasolo/omafizzy).
 2. Create a branch.
 3. Pass `--profile` on every Fizzy command via `Model.fizzyArgs`. Do not call `fizzy auth switch`. Add account with `fizzy setup --profile` in a visible terminal. Remove with `fizzy auth logout --profile`. Do not read tokens or Fizzy config files. For published screenshots, switch the active CLI profile to `gigasolo` and follow [docs/screenshots.md](docs/screenshots.md). Do not commit shots of VirtualPBX or any other live board.
 4. Put parse and format logic in `Model.js` so it can be tested without QML.

@@ -22,7 +22,7 @@ panel shows how to finish setup.
 ## Install
 
 ```sh
-omarchy plugin add https://github.com/gigasolo/omarchy-fizzy.git --enable
+omarchy plugin add https://github.com/gigasolo/omafizzy.git --enable
 ```
 
 ## Submit a plugin (new listing)
@@ -31,7 +31,7 @@ Use [Submit a plugin](https://github.com/omacom/omarchy-plugin-marketplace/issue
 
 | Field | Value |
 | --- | --- |
-| Repository URL | `https://github.com/gigasolo/omarchy-fizzy` |
+| Repository URL | `https://github.com/gigasolo/omafizzy` |
 | Category | Productivity |
 | Tags | Bar, Quickshell, AI |
 | Suggest a missing tag | Notifications |
@@ -48,5 +48,5 @@ Use [Verify or update](https://github.com/omacom/omarchy-plugin-marketplace/issu
 | --- | --- |
 | Verification action | Verify and publish a newer upstream commit |
 | Plugin ID | `gigasolo.fizzy` |
-| Repository URL | `https://github.com/gigasolo/omarchy-fizzy` |
+| Repository URL | `https://github.com/gigasolo/omafizzy` |
 | Target commit | Full 40-character SHA of the 1.1.0 commit on `main` |

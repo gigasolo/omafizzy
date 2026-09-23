@@ -37,6 +37,6 @@ CLI ids, card numbers, and URLs are validated before they become process argumen
 
 Please do **not** open a public issue for a security problem.
 
-Use [GitHub Security Advisories](https://github.com/gigasolo/omarchy-fizzy/security/advisories/new) on this repository.
+Use [GitHub Security Advisories](https://github.com/gigasolo/omafizzy/security/advisories/new) on this repository.
 
 Do not include API tokens, Fizzy config files, or notification content in the report.

@@ -2,8 +2,8 @@
 
 Omafizzy (Fizzy notifications) shows unread [Fizzy](https://fizzy.do) notifications in your [Omarchy](https://omarchy.org/) bar.
 
-[![Version](https://img.shields.io/github/v/release/gigasolo/omarchy-fizzy?label=version)](https://github.com/gigasolo/omarchy-fizzy/releases)
-[![License: MIT](https://img.shields.io/github/license/gigasolo/omarchy-fizzy)](LICENSE)
+[![Version](https://img.shields.io/github/v/release/gigasolo/omafizzy?label=version)](https://github.com/gigasolo/omafizzy/releases)
+[![License: MIT](https://img.shields.io/github/license/gigasolo/omafizzy)](LICENSE)
 [![Omarchy 4](https://img.shields.io/badge/omarchy-4%20Quattro-informational)](https://omarchy.org/)
 
 <p align="center">
@@ -22,18 +22,18 @@ See [CHANGELOG.md](CHANGELOG.md) for what shipped in 1.1.0 and what is still unr
 A third-party Omarchy plugin is a git repo with `manifest.json` at the root. Add this one with:
 
 ```sh
-omarchy plugin add https://github.com/gigasolo/omarchy-fizzy.git --enable
+omarchy plugin add https://github.com/gigasolo/omafizzy.git --enable
 ```
 
 Omarchy may ask which side of the bar to use. The default is the right.
 
 > [!IMPORTANT]
-> Plugins run as unsandboxed code inside your long-lived `omarchy-shell` process. Only add repos you trust, and [read the source](https://github.com/gigasolo/omarchy-fizzy) before you enable one.
+> Plugins run as unsandboxed code inside your long-lived `omarchy-shell` process. Only add repos you trust, and [read the source](https://github.com/gigasolo/omafizzy) before you enable one.
 
 Without `--enable`, the plugin is cloned and left off so you can review it first:
 
 ```sh
-omarchy plugin add https://github.com/gigasolo/omarchy-fizzy.git
+omarchy plugin add https://github.com/gigasolo/omafizzy.git
 less ~/.config/omarchy/plugins/gigasolo.fizzy/README.md
 omarchy plugin enable gigasolo.fizzy --section right
 ```
@@ -148,8 +148,8 @@ omarchy plugin enable gigasolo.fizzy --section right
 ## Develop
 
 ```sh
-git clone https://github.com/gigasolo/omarchy-fizzy.git
-cd omarchy-fizzy
+git clone https://github.com/gigasolo/omafizzy.git
+cd omafizzy
 ./tests/run
 ```
 
