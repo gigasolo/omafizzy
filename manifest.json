@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "gigasolo.fizzy",
-  "name": "Fizzy",
+  "name": "Omafizzy",
   "version": "1.1.0",
   "author": "GigaSolo LLC",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "barWidget": "Panel.qml"
   },
   "barWidget": {
-    "displayName": "Fizzy",
+    "displayName": "Omafizzy",
     "description": "Unread Fizzy notifications with peek, copy, send-to-agent, and keyboard shortcuts.",
     "category": "Productivity",
     "aliases": [

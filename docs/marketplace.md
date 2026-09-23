@@ -13,7 +13,7 @@ only. Do not upload shots from VirtualPBX or any other live board. Recipe:
 
 ## Public blurb
 
-Unread Fizzy notifications in your Omarchy bar. New for you is your inbox,
+Omafizzy (Fizzy notifications) shows unread Fizzy notifications in your Omarchy bar. New for you is your inbox,
 not every new card on the board. Peek at a card and its comments, copy or
 open the link, send it to your Omarchy agent (Send to Agent), or mark a ping
 read. Full keyboard navigation. If the Fizzy CLI is not installed yet, the

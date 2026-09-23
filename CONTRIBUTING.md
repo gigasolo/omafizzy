@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping with Fizzy for Omarchy.
+Thanks for helping with Omafizzy (Fizzy notifications for Omarchy).
 
 ## Before you start
 

@@ -1,11 +1,15 @@
 # Changelog
 
-All notable changes to Fizzy for Omarchy are documented here.
+All notable changes to Omafizzy are documented here.
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+### Changed
+
+- Display name is Omafizzy (marketplace `name`, bar-widget `displayName`, and the panel title). Plugin id is still `gigasolo.fizzy`. Version stays 1.1.0 until the next release.
 
 ## [1.1.0] — 2026-09-09
 

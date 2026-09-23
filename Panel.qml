@@ -635,7 +635,7 @@ Panel {
               spacing: Style.space(3)
 
               Text {
-                text: "Fizzy"
+                text: "Omafizzy"
                 color: root.foreground
                 font.family: root.fontFamily
                 font.pixelSize: Style.font.title
